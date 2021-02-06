@@ -1,6 +1,8 @@
-###################
-# compiled source #
-###################
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
+
 *.com
 *.class
 *.dll
